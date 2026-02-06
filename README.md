@@ -1,8 +1,7 @@
 ### Welcome to my github 👋
-Hi, this is inisis, inisis stands for initial & insist, which means creativity and perseverance, enjoy and have fun.
+Hi, this is inisis, inisis stands for initial & insist, enjoy and have fun.
 
-![inisis's github stats](https://github-readme-stats.vercel.app/api?username=inisis&show_icons=true&theme=dark)
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inisis&theme=dark" alt="Stats" />
 
 <div align="left">
   <a href="https://github.com/inisis?tab=repositories" target="_blank">
